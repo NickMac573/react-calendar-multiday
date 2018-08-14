@@ -79,10 +79,6 @@
 	outline: none;
 }
 
-.o_day-picker .i_day-picker-row [class*="-day"]:hover {
-	background-color: rgba(184, 233, 134, .4) !important;
-}
-
 .o_day-picker .i_day-picker-row .selected-day {
 	color: white;
 	background-color: #70bde2;
