@@ -79,11 +79,6 @@
 	outline: none;
 }
 
-.o_day-picker .i_day-picker-row .selected-day {
-	color: white;
-	background-color: #70bde2;
-}
-
 .o_day-picker .i_day-picker-row .prev-month-day {
 	color: #b3b3b3;
 }
